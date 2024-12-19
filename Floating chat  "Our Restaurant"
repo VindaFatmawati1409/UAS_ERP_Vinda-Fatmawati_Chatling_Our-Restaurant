@@ -1,2 +1,3 @@
-Berikut ini merupakan link dari chatling "Our Restaurant" 
-https://share.chatling.ai/s/6cs83s8EmqhCFSb
+Berikut ini merupakan kode dari chatling "Our Restaurant" 
+<script> window.chtlConfig = { chatbotId: "4155388759" } </script>
+<script async data-id="4155388759" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
